@@ -43,7 +43,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleumont&exclude_repo=github-readme-stats,bleumont.github.io"/>
 
 [website]: https://bleumont.github.io/
-[twitter]: https://twitter.com/fedecanete.dev
+[twitter]: https://twitter.com/fedecanete_dev
 [instagram]: https://instagram.com/fedecanete.dev
 [linkedin]: https://linkedin.com/in/bleumont
 [wow]: https://worldofwarcraft.com/es-mx/character/us/quelthalas/deathrattle
