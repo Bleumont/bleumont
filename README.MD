@@ -36,7 +36,7 @@
 <br />
 <br />
 
-### Mas usados: (CSS? wtf!)
+### Mas usados:
 
 <br/>
 
