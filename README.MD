@@ -1,15 +1,15 @@
-# Hola, soy Fede - aka [Bleumont][website] 👋
+# Hi, I'm Fede - aka [Bleumont][website] 👋
 
-## Soy gamer, barbudo, y developer!
+## I'm a gamer, web developer and beardiful!
 
-- 👷‍♂️ Actualmente trabajando en mi portafolios.
-  - 👨‍💻 Y estudiando de todo!
-- 🐙 Me gusta el backend.
-- 🥅 Metas 2021: Trabajar, sumar experiencia y colaborar al open source
-- 🎮 Tip ~~triste~~ curioso: Tengo 3k+ de logros en [WoW]
+- 👷‍♂️ Right now I'm working on my portfolio!.
+  - 👨‍💻 Also studying and learning a ton!
+- 🐙 I like backend.
+- 🥅 2021 goals: Work, grow professionally and collaborate to open source
+- 🎮 Passionate [WoW] Player
   <br/><br/>
 
-### Mis redes:
+### Social links:
 
 [<img align="left" alt="Bleumont | Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [<img align="left" alt="Bleumont | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="left" alt="Bleumont | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="Bleumont | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Lenguajes y tecnologías que uso:
+## Languages and tech I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-### Mas usados:
+### Some stats:
 
 <br/>
 
