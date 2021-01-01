@@ -1,6 +1,6 @@
 # Hi, I'm Fede - aka [Bleumont][website] 👋
 
-## I'm a gamer, web developer and beardiful!
+## I'm a web developer, gamer and beardiful!
 
 - 👷‍♂️ Right now I'm working on my portfolio!.
   - 👨‍💻 Also studying and learning a ton!
