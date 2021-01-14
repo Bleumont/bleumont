@@ -1,4 +1,4 @@
-# Hi, I'm Fede - aka [Bleumont][website] 👋
+# Hi, I'm [Fede][website] 👋
 
 ## I'm a web developer, gamer and beardiful!
 
