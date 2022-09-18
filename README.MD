@@ -1,12 +1,12 @@
 # Hi, I'm [Fede][website] 👋
 
-## I do web dev and stuff.
+## I do dev and stuff.
 
 - 👷‍♂️ Right now I'm working on my portfolio!.
-  - 👨‍💻 Also studying and learning some Go.
+  - 👨‍💻 Also studying and learning some Unity.
 - 🐙 I like backend.
-- 🥅 2021 goals: Work and grow professionally.
-- 🎮 Passionate [WoW] Player (on stand by, thanks 9.1)
+- 🥅 2022 goals: Game development 🕹.
+- 🎮 Passionate [WoW] Player (on stand by, thanks shadowlands)
   <br/><br/>
 
 ### Social links:
